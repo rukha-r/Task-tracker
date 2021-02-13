@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wrapper {
+  width: 500px;
+  min-height: 300px;
+  border: 1px solid #59575733;
+  border-bottom: none;
+  cursor: pointer;
+  box-shadow: 5px 5px 15px gray;
+}
+input {
+  border: none;
+}
+.empty-list {
+  text-align: center;
+  opacity: 0.4;
+  padding: 40px;
+  width: 100%;
+}

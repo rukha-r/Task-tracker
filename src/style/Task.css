@@ -1,0 +1,14 @@
+.child-element {
+	padding: 10px;
+	margin: 5px;
+	word-break: break-all;
+	border-bottom: 1px solid #80808054;
+}
+.child-element span {
+	float: right;
+}
+.important {
+	background-color: #343a4129;
+	cursor: pointer;
+	border-left: 10px solid #343A41;
+}
